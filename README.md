@@ -1,4 +1,4 @@
-**Data Analysis Using Pandas**
+## Data Analysis Using Pandas
 Python library used: Pandas and NumPy
 1. Finding and dropping duplicates.
 2. Handling missing values.
